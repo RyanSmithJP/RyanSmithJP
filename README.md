@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### I'm a third year computer science student
 <!--
 **RyanSmithJP/RyanSmithJP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
