@@ -1,4 +1,5 @@
-### I'm a third year computer science student
+I'm Ryan, a third year computer science student.
+I'm currently learning React and my main skills are Java, C++, Javascript and SQL.
 <!--
 **RyanSmithJP/RyanSmithJP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
