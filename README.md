@@ -1,4 +1,4 @@
-I'm Ryan, a third year computer science student at Maynooth University.
+I'm Ryan, a final year computer science student at Maynooth University.
 My main skills are Java, C++, HTML/CSS/Javascript and SQL.
 <!--
 **RyanSmithJP/RyanSmithJP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
